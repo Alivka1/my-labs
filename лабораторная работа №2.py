@@ -10,13 +10,11 @@
 #9. 0b101 & 0b111 ^ 0b111 | 0b010
 
 #1
-from tkinter.tix import MAX
-
-
 v='#1.'
 a= True
 b= False
 print(v,a and b)
+
 
 #2
 v='#2.'
