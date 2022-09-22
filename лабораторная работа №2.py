@@ -80,9 +80,9 @@ print('#ЗАДАНИЕ 4')
 a = int(input('Введите первое число : '))
 b = int(input('Введите второе число : '))
 c= int(input('Введите третье число : '))
-if a==b & a==c:
+if a==b and a==c:
     print('Уникальных чисел: ', 1)
-elif a!=b & a!=c & b!=c:
+elif a!=b and a!=c and b!=c:
     print('Уникальных чисел: ',3)
 else:
     print('Уникальных чисел: ',2)
